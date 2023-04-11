@@ -1,5 +1,6 @@
 # - JS scripts to run autonomously for the popular bitcoin gambling site <a href="https://www.coinscrash.com/">CoinsCrash.com</a>
 CoinsCrash Scripts 
+Input the script code at Manual|<b>Auto</b> -  click down AutoBet select <b>Custom</b>
 
 <h3>1.03xChasingRandom</h3>
 That's a custom made script. Basically a martingale, but with a lot of parameters. There is a nice interface for you to adjust your betting strategy. You can use it to chase any multiplier.
