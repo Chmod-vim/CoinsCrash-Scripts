@@ -1,11 +1,10 @@
 # - JS scripts to run autonomously for the popular bitcoin gambling site <a href="https://www.coinscrash.com/">CoinsCrash.com</a>
 CoinsCrash Scripts 
 
-<h3>
-1.03xChasingRandom</h3>
+<h3>1.03xChasingRandom</h3>
 That's a custom made script. Basically a martingale, but with a lot of parameters. There is a nice interface for you to adjust your betting strategy. You can use it to chase any multiplier.
 
-<h3>1.35xChasingSmart.js/h3>
+<h3>1.35xChasingSmart.js</h3>
 In this script you can set the number of games that you want to wait before chasing . Once this number of games is reached, it will bet the 'base bet' value that you sen when starting the script and double the bet when needed, to stay in profit.
 
 <h3>2x Chasing</h3>
